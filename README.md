@@ -106,7 +106,12 @@ The SHA-256 hashes are recorded in:
 manifest_sha256.txt
 ```
 
+## Lean formalisation
+
+
 The decryption key will be released after the corresponding manuscripts are publicly posted.
+
+This [folder](https://github.com/JAgbanwa/erdos-81-chordal-clique-partitions/tree/main/paper_A_split_graphs_preprint_v02) contains a Lean formalisation of these results.
 
 ## Author
 
