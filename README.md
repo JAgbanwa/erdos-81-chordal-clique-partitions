@@ -28,7 +28,7 @@ public_release/
   PAPER_I/
   PAPER_II/
   PAPER_III/
-  THREE_PAPER_SERIES_ANNOUNCEMENT.md
+  THREE_PAPER_SERIES_ANNOUNCEMENT_FINAL.md
   THREE_PAPER_SERIES_ANNOUNCEMENT_FINAL.tex
   THREE_PAPER_SERIES_ANNOUNCEMENT_FINAL.pdf
 ```
@@ -48,6 +48,14 @@ public_release/00_PUBLIC_INTEGRITY/
 
 This integrity folder was generated only from the public release files. It intentionally does not include the private internal working record.
 
+The current announcement is mirrored separately for convenience in:
+
+```text
+announcement/THREE_PAPER_SERIES_ANNOUNCEMENT_FINAL.md
+announcement/THREE_PAPER_SERIES_ANNOUNCEMENT_FINAL.tex
+announcement/THREE_PAPER_SERIES_ANNOUNCEMENT_FINAL.pdf
+```
+
 ## Sealed Complete Package
 
 The complete author package, including internal working records, is archived only in encrypted form:
@@ -61,7 +69,7 @@ The plaintext complete package and encryption key are not stored in this reposit
 
 ## Historical Materials
 
-Earlier announcement files, sealed archives, and draft folders may remain in this repository for timestamp/history purposes. The current public release should be read from `public_release/`.
+Earlier sealed archives and draft folders may remain in this repository for timestamp/history purposes. The current public release should be read from `public_release/`.
 
 ## Lean Formalisation
 
